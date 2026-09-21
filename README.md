@@ -1,16 +1,18 @@
-## Hi there 👋
+# Jaydeep Bhatt | SDET Lead — Mainframe/GDS Modernization
 
-<!--
-**wilcoyay/wilcoyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+14 years in test engineering, specialized in COBOL-to-cloud parallel testing, 
+EBCDIC/binary payload verification, and GDS systems (Sabre/SNTE). 
+2 years at Sabre working core framework modernization.
 
-Here are some ideas to get you started:
+**Currently:** Available for contract/freelance engagements in mainframe modernization 
+test automation, GDS system verification, and Spring Boot test frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core expertise
+- COBOL COPYBOOK parsing (COMP-3, REDEFINES, OCCURS DEPENDING ON)
+- EDIFACT/PADIS message decoding
+- Parallel run testing (mainframe vs. modernized system verification)
+- EBCDIC/binary payload decoding
+- Spring Boot test automation frameworks
+
+## Connect
+LinkedIn: https://in.linkedin.com/in/jaydeep-bhatt-329898a2
